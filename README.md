@@ -32,3 +32,15 @@ npm搜索
 ### Join.Tencent.Meeting.alfredworkflow
 
 通过会议id加入腾讯会议
+
+### NewPath.alfredworkflow
+
+在当前打开的finder常见文件和目录
+
+### alfred-npm.alfredworkflow
+
+搜索npm包并打开页面
+
+### alfred-mdn.alfredworkflow
+
+搜索mdn并打开页面
